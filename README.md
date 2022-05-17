@@ -1,6 +1,6 @@
 # mutiplePOCS
-  # AuditLog
-  dfsfdsdf
+  # Audit Log
+  Used Hibernate Envers and JPA Audit 
   
-  # StructureLogging
+  # Structured Logging
   
